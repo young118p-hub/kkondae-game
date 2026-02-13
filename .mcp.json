@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "mcp-unity": {
+      "command": "node",
+      "args": ["C:\\Users\\com\\Desktop\\PCY\\VS\\git\\kkondae-game\\Library\\PackageCache\\com.gamelovers.mcp-unity@64324a54490e\\Server~\\build\\index.js"],
+      "env": {
+        "UNITY_PORT": "8090"
+      }
+    }
+  }
+}
